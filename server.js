@@ -4,3 +4,6 @@ const App = () => {
       setNavItem(navItem);
       console.log(navItem);
     };
+
+
+    const newapp = "readme"
